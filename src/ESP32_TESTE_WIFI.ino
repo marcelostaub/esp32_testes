@@ -870,7 +870,7 @@ void loop()
     }
     
     cont1 = contador(cont1);
-    Serial.println(cont1);
+    Serial.println(cont1+3);
 
   }
 #endif
